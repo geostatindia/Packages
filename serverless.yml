@@ -1,4 +1,2 @@
-app:
-  name: test-app
-service:
-  name: test-service
+app:test-app
+service:test-service
