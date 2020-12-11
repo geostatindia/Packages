@@ -1,1 +1,3 @@
 
+environment:
+       USER: ${file(./.env.yml):USER, env:USER}
