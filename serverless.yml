@@ -1,3 +1,2 @@
-
-environment:
-       USER: ${file(./.env.yml):USER, env:USER}
+service:
+  name: test-service
